@@ -1,0 +1,12 @@
+# ignore all
+*
+
+# allow recursively
+!*/
+
+# allow .cpp files
+!*.cpp
+!**/*.cpp
+
+# allow gitignore
+!.gitignore
