@@ -8,5 +8,8 @@
 !*.cpp
 !**/*.cpp
 
+# allow .md files
+!*.md
+
 # allow gitignore
 !.gitignore
